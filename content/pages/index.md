@@ -57,7 +57,7 @@ sections:
         showIcon: true
     backgroundImage:
       type: BackgroundImage
-      url: /images/hero.webp
+      url: /images/屏幕快照 2023-01-06 16.35.19.png
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
