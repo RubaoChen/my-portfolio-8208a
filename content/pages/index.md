@@ -43,7 +43,7 @@ sections:
         justifyContent: flex-start
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-d
+    colors: colors-e
     backgroundSize: inset
     title: Data Visualization
     subtitle: Fresh. Better. Faster.
