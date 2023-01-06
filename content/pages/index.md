@@ -7,7 +7,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Welcome to my Portfolio Website
-    subtitle: Fresh. Better. Faster.
+    subtitle: Data Analyst. Market researcher
     text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
     actions:
       - type: Button
