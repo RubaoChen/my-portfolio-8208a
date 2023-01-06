@@ -23,7 +23,7 @@ sections:
     subtitle: Fresh. Better. Faster.
     actions:
       - type: Button
-        label: Get Started
+        label: read more
         url: 'https://public.tableau.com/app/profile/rubao.chen'
         style: primary
         iconPosition: right
