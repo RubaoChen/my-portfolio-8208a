@@ -49,7 +49,7 @@ sections:
     subtitle: Tableau Public
     actions:
       - type: Button
-        label: see all
+        label: visit all
         url: 'https://public.tableau.com/app/profile/rubao.chen'
         style: primary
         iconPosition: right
