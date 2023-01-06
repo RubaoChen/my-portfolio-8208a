@@ -93,6 +93,10 @@ sections:
     title: Customer Segmentation
     text: |
       We’re local, seasonal fisherman, supporting fishing restrictions.
+
+      We’re local, seasonal fisherman, supporting fishing restrictions.
+
+      We’re local, seasonal fisherman, supporting fishing restrictions.
     actions:
       - type: Link
         label: Join adventure
