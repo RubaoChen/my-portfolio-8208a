@@ -84,7 +84,6 @@ sections:
         justifyContent: flex-start
     media:
       type: ImageBlock
-      url: /images/屏幕快照 2023-01-06 16.36.19.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
