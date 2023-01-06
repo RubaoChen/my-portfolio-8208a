@@ -57,7 +57,7 @@ sections:
         showIcon: true
     backgroundImage:
       type: BackgroundImage
-      url: /images/屏幕快照 2023-01-06 22.50.01.png
+      url: /images/屏幕快照 2023-01-06 22.55.20.png
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
