@@ -44,6 +44,16 @@ bottomSections:
       actions:
         justifyContent: center
     type: RecentPostsSection
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: >-
+          https://github.com/RubaoChen/Data-analysis-project-portfolio/blob/main/%20Customer%20Segmentation%20by%20k-mean%20Clustering/%20Customer%20Segmentation%20by%20k-mean%20Clustering.ipynb
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
   - type: DividerSection
     colors: colors-d
     styles:
