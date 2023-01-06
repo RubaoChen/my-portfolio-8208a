@@ -49,7 +49,7 @@ sections:
     subtitle: Fresh. Better. Faster.
     actions:
       - type: Button
-        label: read more
+        label: see all
         url: 'https://public.tableau.com/app/profile/rubao.chen'
         style: primary
         iconPosition: right
