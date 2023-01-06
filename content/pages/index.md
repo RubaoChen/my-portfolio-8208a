@@ -9,7 +9,7 @@ sections:
     title: Welcome to my Portfolio Website
     subtitle: Data Analyst. Market researcher
     text: >
-      Hi , I am Rubao Chen, a experienced data analyst and market researcher.
+      Hi , I am Rubao Chen, an experienced data analyst and market researcher.
       This website showcases varies data analysis projects I did using Python,
       SQL, R and Tableau.
 
