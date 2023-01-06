@@ -2,7 +2,7 @@
 title: Customer Segmentation
 layout: PostLayout
 date: '2021-12-02'
-excerpt: 'Analyse the '
+excerpt: 'Analyse the customer segmentation by Cluster '
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
