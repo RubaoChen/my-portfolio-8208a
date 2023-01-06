@@ -10,8 +10,8 @@ sections:
     subtitle: Data Analyst. Market researcher
     text: >
       Hi , I am Rubao Chen, a experienced data analyst and market researcher.
-      This website showcases varies data analysis projects using Python, SQL, R
-      and Tableau. 
+      This website showcases varies data analysis projects I did using Python,
+      SQL, R and Tableau.
 
 
       Please contact me if you want to work with me!
