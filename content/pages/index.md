@@ -119,7 +119,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Seasonal adventure
+    title: Projects
     subtitle: ''
     posts:
       - content/pages/blog/post-three.md
