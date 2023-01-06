@@ -46,7 +46,7 @@ sections:
     colors: colors-e
     backgroundSize: inset
     title: Data Visualization
-    subtitle: Tableau Public
+    subtitle: visit @RubaoChen on Tableau Public
     actions:
       - type: Button
         label: visit all
