@@ -2,7 +2,7 @@
 title: Customer Segmentation
 layout: PostLayout
 date: '2021-12-02'
-excerpt: 'Analyse the customer segmentation by Cluster '
+excerpt: 'Analyse the customer segmentation by K-means Clustering '
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
