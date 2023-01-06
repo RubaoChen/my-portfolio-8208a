@@ -46,7 +46,7 @@ sections:
     colors: colors-e
     backgroundSize: inset
     title: Tableau Dashboard
-    subtitle: Visit @RubaoChen on Tableau Pub
+    subtitle: Visit @RubaoChen on Tableau Public
     actions:
       - type: Button
         label: visit all
