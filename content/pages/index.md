@@ -99,7 +99,7 @@ sections:
       We’re local, seasonal fisherman, supporting fishing restrictions.
     actions:
       - type: Link
-        label: Join adventure
+        label: CODE
         url: >-
           https://github.com/RubaoChen/Data-analysis-project-portfolio/blob/main/%20Customer%20Segmentation%20by%20k-mean%20Clustering/%20Customer%20Segmentation%20by%20k-mean%20Clustering.ipynb
         showIcon: true
