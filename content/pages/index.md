@@ -46,7 +46,7 @@ sections:
     colors: colors-e
     backgroundSize: inset
     title: Data Visualization
-    subtitle: Fresh. Better. Faster.
+    subtitle: Tableau Public
     actions:
       - type: Button
         label: see all
