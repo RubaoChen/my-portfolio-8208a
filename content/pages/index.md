@@ -24,7 +24,7 @@ sections:
     actions:
       - type: Button
         label: Get Started
-        url: 'https://www.stackbit.com/'
+        url: 'https://public.tableau.com/app/profile/rubao.chen'
         style: primary
         iconPosition: right
         icon: arrowRight
