@@ -11,7 +11,7 @@ sections:
     text: >
       Hi , I am Rubao Chen, a experienced data analyst and market researcher.
       This website showcases varies data analysis projects I did by different
-      software, including Python, SQL, R and Tableau.
+      software, including Python, SQL, R and Tableau. 
     actions:
       - type: Button
         label: Join adventure
