@@ -90,7 +90,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: Time to leave your desk. Let’s go flying
+    title: Customer Segmentation
     text: |
       We’re local, seasonal fisherman, supporting fishing restrictions.
     actions:
