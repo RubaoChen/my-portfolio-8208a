@@ -8,7 +8,10 @@ sections:
     backgroundSize: full
     title: Welcome to my Portfolio Website
     subtitle: Data Analyst. Market researcher
-    text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
+    text: >
+      Hi , I am Rubao Chen, a experienced data analyst and market researcher.
+      This website showcases varies data analysis projects I did by different
+      software, including Python, SQL, R and Tableau.
     actions:
       - type: Button
         label: Join adventure
