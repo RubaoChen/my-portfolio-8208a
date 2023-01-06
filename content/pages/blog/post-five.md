@@ -2,9 +2,7 @@
 title: Customer Segmentation
 layout: PostLayout
 date: '2021-12-02'
-excerpt: >-
-  Knowing how to feed yourself in the wild is one of the greatest skills you
-  could ever have.
+excerpt: 'Analyse the '
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
