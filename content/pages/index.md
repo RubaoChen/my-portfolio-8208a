@@ -181,7 +181,8 @@ sections:
         showIcon: true
         icon: arrowRight
         style: secondary
-        url: /
+        url: >-
+          https://github.com/RubaoChen/Data-analysis-project-portfolio/blob/main/LinearRegression/Linear%20Regression.ipynb
     backgroundImage:
       type: ImageBlock
       url: /images/hero-3.png
