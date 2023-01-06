@@ -45,7 +45,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-e
     backgroundSize: inset
-    title: Data Visualization
+    title: Tableau Dashboard
     subtitle: visit @RubaoChen on Tableau Public
     actions:
       - type: Button
