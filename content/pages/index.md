@@ -148,7 +148,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: 'Key Words: SQL, Exploratory Data Analysis'
+    subtitle: 'Key Words: SQL Queries, Exploratory Data Analysis'
   - type: DividerSection
     colors: colors-d
     elementId: ''
