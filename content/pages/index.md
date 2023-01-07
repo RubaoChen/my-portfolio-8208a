@@ -15,13 +15,7 @@ sections:
 
 
       Please contact me if you want to work with me!
-    actions:
-      - type: Button
-        label: Contact
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: 'https://app.stackbit.com/studio/63b8208aed8d5000bd31ca49'
+    actions: []
     media:
       type: ImageBlock
       url: /images/my picture.jpeg
