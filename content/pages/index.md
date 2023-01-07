@@ -132,7 +132,7 @@ sections:
           - pb-16
           - pl-8
           - pr-4
-        alignItems: flex-start
+        alignItems: center
         justifyContent: center
         flexDirection: row
       title:
