@@ -17,7 +17,7 @@ sections:
       Please contact me if you want to work with me!
     actions:
       - type: Button
-        label: Contacy
+        label: Contact
         showIcon: true
         icon: arrowRight
         style: primary
