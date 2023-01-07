@@ -127,7 +127,7 @@ sections:
         width: narrow
         padding:
           - pt-36
-          - pb-48
+          - pb-36
           - pl-4
           - pr-4
         alignItems: flex-start
