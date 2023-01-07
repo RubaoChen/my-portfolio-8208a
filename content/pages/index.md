@@ -101,7 +101,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: "Analyze International Debt Statistics\_(EDA)"
+    title: Analyze International Debt Statistics
     text: |
       Key Words: SQL, Exploratory Data Analysis
     actions:
