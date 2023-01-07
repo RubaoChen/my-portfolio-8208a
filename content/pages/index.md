@@ -109,7 +109,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: HeroSection
-    colors: colors-d
+    colors: colors-c
     elementId: ''
     backgroundSize: full
     title: Exploratory Data Analysis (EDA)
