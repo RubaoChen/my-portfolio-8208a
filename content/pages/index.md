@@ -107,7 +107,6 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Exploratory Data Analysis (EDA)
-    subtitle: Fresh. Better. Faster.
     text: ''
     actions:
       - type: Button
