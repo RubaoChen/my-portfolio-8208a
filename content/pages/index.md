@@ -123,7 +123,7 @@ sections:
       - type: Button
         label: CODE
         showIcon: true
-        icon: github
+        icon: arrowRight
         style: primary
         url: /
         iconPosition: right
