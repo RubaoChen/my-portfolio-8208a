@@ -93,6 +93,15 @@
                 "label": "Facebook",
                 "url": "/",
                 "icon": "facebook"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://github.com/RubaoChen/Data-analysis-project-portfolio",
+                "icon": "github",
+                "style": "link",
+                "elementId": ""
             }
         ],
         "legalLinks": [
