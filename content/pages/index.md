@@ -79,7 +79,7 @@ sections:
           - pt-20
           - pb-96
           - pr-8
-          - pl-8
+          - pl-9
         alignItems: flex-start
         justifyContent: center
         flexDirection: row
