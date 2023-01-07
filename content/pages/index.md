@@ -123,7 +123,7 @@ sections:
       - type: Button
         label: CODE
         showIcon: true
-        icon: arrowRight
+        icon: arrowLeftCircle
         style: primary
         url: /
     media:
