@@ -112,7 +112,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Cohort Analysis
+    title: Exploratory Data Analysis (EDA)
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
