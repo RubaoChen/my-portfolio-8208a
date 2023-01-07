@@ -142,6 +142,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: Analyze International Debt Statistics
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
