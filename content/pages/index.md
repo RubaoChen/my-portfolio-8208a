@@ -74,6 +74,7 @@ sections:
         alignItems: flex-start
         justifyContent: center
         flexDirection: row
+        borderRadius: none
       title:
         textAlign: left
       subtitle:
