@@ -201,7 +201,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /images/hero.jpeg
       altText: Hero image
     backgroundImage: null
     styles:
