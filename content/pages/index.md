@@ -103,9 +103,13 @@ sections:
     backgroundSize: full
     title: EDA：Analyze International Debt Statistics
     text: >+
+      This projects analyse the world bank debt dataset to explore the worldwide
+      general debt situation:
+
+
       *   The total amount of debt owed by listed countries
 
-      *   The country which owns the maximum amount of debt 
+      *   The country which owns the maximum amount of debt
 
       *   The average amount of debt owed by countries across different debt
       indicators
