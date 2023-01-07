@@ -102,8 +102,14 @@ sections:
     elementId: ''
     backgroundSize: full
     title: EDA：Analyze International Debt Statistics
-    text: |
-      Key Words: SQL, Exploratory Data Analysis
+    text: >+
+
+
+      *   *   What is the total amount of debt that is owed by the countries
+      listed in the dataset*   Which country owns the maximum amount of debt and
+      what does that amount look like?*   What is the average amount of debt
+      owed by countries across different debt indicators?
+
     actions:
       - type: Button
         label: CODE
