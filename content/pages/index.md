@@ -132,7 +132,7 @@ sections:
           - pr-4
         alignItems: flex-start
         justifyContent: center
-        flexDirection: col-reverse
+        flexDirection: col
       title:
         textAlign: left
       subtitle:
