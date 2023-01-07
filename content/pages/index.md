@@ -127,7 +127,7 @@ sections:
         icon: arrowRight
     backgroundImage:
       type: BackgroundImage
-      url: /images/hero-3.webp
+      url: /images/下载.png
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
