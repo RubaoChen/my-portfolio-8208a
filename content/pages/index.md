@@ -148,7 +148,7 @@ sections:
     colors: colors-c
     elementId: ''
     backgroundSize: full
-    title: Predicting Credit Card Approvals
+    title: web scraping
     subtitle: Predicting Credit Card Approvals
     text: ''
     actions:
