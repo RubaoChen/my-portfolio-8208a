@@ -78,7 +78,7 @@ sections:
         padding:
           - pt-20
           - pb-96
-          - pr-9
+          - pr-8
           - pl-8
         alignItems: flex-start
         justifyContent: center
