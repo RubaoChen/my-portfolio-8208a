@@ -71,7 +71,7 @@ sections:
           - pb-96
           - pr-9
           - pl-9
-        alignItems: center
+        alignItems: flex-start
         justifyContent: flex-start
         flexDirection: row
       title:
