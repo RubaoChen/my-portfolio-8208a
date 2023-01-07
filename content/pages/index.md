@@ -149,7 +149,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Predicting Credit Card Approvals
-    subtitle: Fresh. Better. Faster.
+    subtitle: Predicting Credit Card Approvals
     text: ''
     actions:
       - type: Button
