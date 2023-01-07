@@ -185,7 +185,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: HeroSection
-    colors: colors-a
+    colors: colors-c
     elementId: ''
     backgroundSize: full
     title: We do fishing differently
