@@ -126,7 +126,7 @@ sections:
         icon: github
         style: primary
         url: /
-        iconPosition: left
+        iconPosition: right
     media:
       type: ImageBlock
       url: /images/debt.jpeg
