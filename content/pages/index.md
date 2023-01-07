@@ -228,7 +228,7 @@ sections:
     colors: colors-c
     elementId: ''
     backgroundSize: full
-    title: We do fishing differently
+    title: Time Series Analysis and Forecasting
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
