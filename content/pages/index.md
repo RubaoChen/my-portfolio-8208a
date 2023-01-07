@@ -124,7 +124,7 @@ sections:
         label: CODE
         showIcon: true
         icon: github
-        style: secondary
+        style: primary
         url: /
         iconPosition: left
     media:
