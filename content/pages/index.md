@@ -144,11 +144,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: >-
-      What is the total amount of debt that is owed by the countries listed in
-      the datasetWhich country owns the maximum amount of debt and what does
-      that amount look like?What is the average amount of debt owed by countries
-      across different debt indicators?
+    subtitle: 'Key Words: SQL, Exploratory Data Analysis'
   - type: DividerSection
     colors: colors-d
     elementId: ''
