@@ -186,7 +186,7 @@ sections:
           - pr-4
           - pl-4
         justifyContent: flex-start
-        borderWidth: 1
+        borderWidth: 0
       title:
         textAlign: left
       subtitle:
