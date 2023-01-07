@@ -18,7 +18,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/my picture.jpeg
+      url: /images/my picture-26ac9a77.jpeg
       altText: Hero image
     backgroundImage: null
     styles:
