@@ -145,7 +145,7 @@ sections:
         justifyContent: flex-start
     subtitle: Analyze International Debt Statistics
   - type: HeroSection
-    colors: colors-d
+    colors: colors-c
     elementId: ''
     backgroundSize: full
     title: Predicting Credit Card Approvals
