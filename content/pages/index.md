@@ -150,7 +150,8 @@ sections:
     backgroundSize: full
     title: Web Scraping
     subtitle: Predicting Credit Card Approvals
-    text: ''
+    text: |
+      Key words: web scraping, python
     actions:
       - type: Button
         label: Join adventure
