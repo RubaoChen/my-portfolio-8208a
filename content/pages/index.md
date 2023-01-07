@@ -103,8 +103,8 @@ sections:
     backgroundSize: full
     title: EDA：Analyze International Debt Statistics
     text: >+
-      This project analyse the world bank debt dataset to explore the worldwide
-      general debt situation:
+      This project explores and analyzes international debt using the World Bank
+      dataset:
 
 
       *   The total amount of debt owed by listed countries
