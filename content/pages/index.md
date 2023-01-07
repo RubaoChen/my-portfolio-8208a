@@ -21,7 +21,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: /
+        url: 'https://app.stackbit.com/studio/63b8208aed8d5000bd31ca49'
     media:
       type: ImageBlock
       url: /images/my picture.jpeg
