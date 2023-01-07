@@ -107,9 +107,8 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Exploratory Data Analysis (EDA)
-    text: |+
-      this is a text
-
+    text: |
+      Key Words: SQL, Data Exploration
     actions:
       - type: Button
         label: CODE
