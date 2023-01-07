@@ -103,7 +103,7 @@ sections:
     backgroundSize: full
     title: "Analyze International Debt Statistics\_(EDA)"
     text: |
-      Key Words: SQL, Data Exploration
+      Key Words: SQL, Exploratory Data Analysis
     actions:
       - type: Button
         label: CODE
