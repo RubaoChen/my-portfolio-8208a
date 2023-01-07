@@ -107,7 +107,9 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Exploratory Data Analysis (EDA)
-    text: ''
+    text: |+
+      this is a text
+
     actions:
       - type: Button
         label: CODE
