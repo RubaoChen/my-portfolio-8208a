@@ -195,7 +195,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Analyse on A/B test for Cookie Cat with Python
+    title: Analyse on A/B test for Cookie Cats with Python
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
