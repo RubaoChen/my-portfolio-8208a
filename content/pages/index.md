@@ -169,7 +169,7 @@ sections:
           - pl-10
           - pr-4
         alignItems: flex-start
-        justifyContent: flex-end
+        justifyContent: center
         flexDirection: row
       title:
         textAlign: left
