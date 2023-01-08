@@ -224,7 +224,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: 'Python: Analyse on A/B test for Cookie Cats'
-    subtitle: Fresh. Better. Faster.
+    subtitle: numpy. pandas. matplotlib
     text: ''
     actions:
       - type: Button
