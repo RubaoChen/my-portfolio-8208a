@@ -264,7 +264,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Visualising COVID-19 with R
-    subtitle: R. ggplot.
+    subtitle: ggplot.
     text: ''
     actions:
       - type: Button
