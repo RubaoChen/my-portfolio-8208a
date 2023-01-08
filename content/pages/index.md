@@ -235,7 +235,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Visualising COVID-19 with R
-    subtitle: Fresh. Better. Faster.
+    subtitle: R. ggplot.
     text: ''
     actions:
       - type: Button
