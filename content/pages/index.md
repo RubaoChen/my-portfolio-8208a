@@ -195,7 +195,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: 'Analyse A/B test for mobile game,Cookie Cat'
+    title: "Analyse A/B test for mobile game,\_ Cookie Cat"
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
