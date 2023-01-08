@@ -158,8 +158,20 @@ sections:
     backgroundSize: full
     title: Web Scraping
     subtitle: Predicting Credit Card Approvals
-    text: |
-      Key words: web scraping, python
+    text: >+
+      This project explores and analyzes international debt using the World Bank
+      dataset:
+
+
+      *   What is the total amount of debt that is owed by developing countries?
+
+
+      *   Which country owns the maximum amount of debt ?
+
+
+      *   What is the average amount of debt owed by countries across different
+      debt indicators?
+
     actions:
       - type: Button
         label: Join adventure
