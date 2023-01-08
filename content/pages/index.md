@@ -101,7 +101,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Explore Global Debt Statistics with SQL Quries
+    title: Explore Global Debt Statistics with SQL Quries (EDA)
     actions:
       - type: Button
         label: CODE
