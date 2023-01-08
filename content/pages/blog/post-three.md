@@ -45,6 +45,16 @@ bottomSections:
       actions:
         justifyContent: center
     type: RecentPostsSection
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: >-
+          https://github.com/RubaoChen/Data-analysis-project-portfolio/blob/main/SQL_Explore%20International%20Debt%20Statistics/Explore%20International%20Debt%20Statistcis.ipynb
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
   - type: DividerSection
     colors: colors-d
     styles:
