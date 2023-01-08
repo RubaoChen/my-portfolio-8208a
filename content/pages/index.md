@@ -224,7 +224,7 @@ sections:
     colors: colors-c
     elementId: ''
     backgroundSize: full
-    title: A/B test for Cookie Cats with Python
+    title: A/B test with Python
     subtitle: numpy. pandas. matplotlib. seaborn
     text: ''
     actions:
