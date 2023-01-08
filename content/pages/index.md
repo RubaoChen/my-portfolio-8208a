@@ -232,7 +232,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: HeroSection
-    colors: colors-d
+    colors: colors-c
     elementId: ''
     backgroundSize: full
     title: Analyse on A/B test for Cookie Cats with Python
