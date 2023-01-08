@@ -146,7 +146,7 @@ sections:
     colors: colors-c
     elementId: ''
     backgroundSize: full
-    title: Web Scraping
+    title: 'Python:Web Scraping'
     subtitle: Predicting Credit Card Approvals
     actions:
       - type: Button
