@@ -107,13 +107,13 @@ sections:
       dataset:
 
 
-      # The total amount of debt owed by developed countries
+      ###### The total amount of debt owed by developed countries
 
 
-      # The country which owns the maximum amount of debt
+      ###### The country which owns the maximum amount of debt
 
 
-      # The average amount of debt owed by countries across different debt
+      ###### The average amount of debt owed by countries across different debt
       indicators
 
     actions:
