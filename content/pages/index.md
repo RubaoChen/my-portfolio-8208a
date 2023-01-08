@@ -102,17 +102,6 @@ sections:
     elementId: ''
     backgroundSize: full
     title: 'SQL Queries: Explore International Debt Statistics'
-    text: >
-      This project explores and analyzes international debt using the World Bank
-      dataset:
-
-
-      1.What is the total amount of debt that is owed by developing
-      countries?                                                                                                                                 
-      2.Which country owns the maximum amount of
-      debt?                                                                                                                                                                        
-      3.What is the average amount of debt owed by countries across different
-      debt indicators?
     actions:
       - type: Button
         label: CODE
