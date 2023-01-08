@@ -185,7 +185,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: 'Python: Customer Segmentation by K-means Clustering'
-    subtitle: Fresh. Better. Faster.
+    subtitle: numpy. pandas. matplotlib. seaborn. sklearn
     text: ''
     actions:
       - type: Button
