@@ -101,7 +101,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Explore data with SQL Quries
+    title: Explore data with SQL Queries
     actions:
       - type: Button
         label: CODE
