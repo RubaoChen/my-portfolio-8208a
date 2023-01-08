@@ -112,12 +112,6 @@ sections:
         style: primary
         url: /
     media: null
-    backgroundImage:
-      type: ImageBlock
-      url: /images/hero.webp
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 100
     styles:
       self:
         height: auto
