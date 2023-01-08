@@ -311,45 +311,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: FeatureHighlightSection
-    colors: colors-c
-    elementId: ''
-    backgroundSize: full
-    title: Predict with Linear Regression
-    subtitle: ''
-    text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
-    actions:
-      - type: Button
-        label: CODE
-        showIcon: true
-        icon: arrowRight
-        style: secondary
-        url: >-
-          https://github.com/RubaoChen/Data-analysis-project-portfolio/blob/main/LinearRegression/Linear%20Regression.ipynb
-    backgroundImage:
-      type: ImageBlock
-      url: /images/hero-3.png
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 100
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-72
-          - pl-4
-          - pr-4
-        justifyContent: flex-start
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: FeaturedPostsSection
     colors: colors-e
     elementId: ''
