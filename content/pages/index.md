@@ -302,7 +302,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Time Series Analysis and Forecasting with Python
+    title: Time Series Analysis and Forecasting with ARIMA model
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
