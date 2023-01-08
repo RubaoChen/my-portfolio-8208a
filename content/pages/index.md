@@ -299,7 +299,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: HeroSection
-    colors: colors-d
+    colors: colors-c
     elementId: ''
     backgroundSize: full
     title: Visualising COVID-19 with R
