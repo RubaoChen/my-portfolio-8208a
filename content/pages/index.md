@@ -147,7 +147,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: 'Python: Use Web Scraping to explore word frequency'
-    subtitle: BeautifulSoup. Requests.
+    subtitle: BeautifulSoup. requests. nltk
     actions:
       - type: Button
         label: Join adventure
