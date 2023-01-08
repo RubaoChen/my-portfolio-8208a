@@ -234,7 +234,7 @@ sections:
     colors: colors-c
     elementId: ''
     backgroundSize: full
-    title: Visualising Covid-19
+    title: Visualising COVID-19 with R
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
