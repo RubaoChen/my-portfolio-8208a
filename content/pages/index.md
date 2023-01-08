@@ -234,7 +234,7 @@ sections:
     colors: colors-c
     elementId: ''
     backgroundSize: full
-    title: Time Series Analysis and Forecasting
+    title: Visualising Covid-19
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
