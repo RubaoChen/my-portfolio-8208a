@@ -120,7 +120,8 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: /
+        url: >-
+          https://github.com/RubaoChen/Data-analysis-project-portfolio/blob/main/SQL_Explore%20International%20Debt%20Statistics/Explore%20International%20Debt%20Statistics.ipynb
         iconPosition: right
     media:
       type: ImageBlock
