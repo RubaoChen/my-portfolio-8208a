@@ -207,7 +207,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/Cookie Cats.jpeg
+      url: /images/Cookie Cats.png
       altText: Hero image
     backgroundImage: null
     styles:
