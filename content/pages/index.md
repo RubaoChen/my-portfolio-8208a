@@ -100,46 +100,6 @@ sections:
   - type: HeroSection
     colors: colors-d
     elementId: ''
-    backgroundSize: inset
-    title: We do fishing differently
-    subtitle: Fresh. Better. Faster.
-    text: ''
-    actions:
-      - type: Button
-        label: Join adventure
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /
-    media:
-      type: ImageBlock
-      url: /images/debt.jpeg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-96
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: HeroSection
-    colors: colors-d
-    elementId: ''
     backgroundSize: full
     title: 'SQL Queries: Explore International Debt Statistics'
     actions:
