@@ -146,7 +146,7 @@ sections:
     colors: colors-c
     elementId: ''
     backgroundSize: full
-    title: Use Web Scraping and NPL to explore word frequency
+    title: 'Python: Use Web Scraping to explore word frequency'
     subtitle: Predicting Credit Card Approvals
     actions:
       - type: Button
