@@ -140,7 +140,7 @@ sections:
     text: >
       This project explores and analyse global debt using the World Bank
       dataset.
-    subtitle: 'select. '
+    subtitle: select. group by. order by. where
   - type: HeroSection
     colors: colors-c
     elementId: ''
