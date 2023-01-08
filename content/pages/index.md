@@ -208,7 +208,7 @@ sections:
           https://github.com/RubaoChen/Data-analysis-project-portfolio/blob/main/%20Customer%20Segmentation%20by%20k-mean%20Clustering/%20Customer%20Segmentation%20by%20k-mean%20Clustering.ipynb
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /images/k-mean clustering.png
       altText: Hero image
     backgroundImage: null
     styles:
