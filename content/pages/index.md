@@ -150,7 +150,7 @@ sections:
     subtitle: BeautifulSoup. requests. nltk
     actions:
       - type: Button
-        label: Join adventure
+        label: CODE
         showIcon: true
         icon: arrowRight
         style: primary
