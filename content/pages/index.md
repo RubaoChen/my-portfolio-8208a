@@ -195,7 +195,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: We do fishing differently
+    title: Customer Segmentation by K-means Clustering
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
