@@ -246,7 +246,7 @@ sections:
         url: /
     media:
       type: ImageBlock
-      url: /images/bg.jpg
+      url: /images/Covid-19.jpeg
       altText: Hero image
     backgroundImage: null
     styles:
