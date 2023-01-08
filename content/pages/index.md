@@ -138,10 +138,9 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: Exploratory Data Analysis.
-    text: >+
-      This project explores and analyse international debt using the World Bank
+    text: >
+      This project explores and analyse global debt using the World Bank
       dataset.
-
   - type: HeroSection
     colors: colors-c
     elementId: ''
