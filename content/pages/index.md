@@ -134,7 +134,7 @@ sections:
       subtitle:
         textAlign: left
       text:
-        textAlign: center
+        textAlign: left
       actions:
         justifyContent: flex-start
     subtitle: Exploratory Data Analysis.
