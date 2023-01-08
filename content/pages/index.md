@@ -149,7 +149,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: SQL Queries. Exploratory Data Analysis.
+    subtitle: Exploratory Data Analysis.
   - type: HeroSection
     colors: colors-c
     elementId: ''
