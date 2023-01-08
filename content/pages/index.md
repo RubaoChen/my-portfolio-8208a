@@ -101,7 +101,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: 'SQL Queries: Analyze International Debt Statistics'
+    title: 'SQL Queries: Explore International Debt Statistics'
     text: >+
       This project explores and analyzes international debt using the World Bank
       dataset:
