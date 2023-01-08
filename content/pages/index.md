@@ -184,7 +184,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Customer Segmentation by K-means Clustering
+    title: Customer Segmentation
     subtitle: numpy. pandas. matplotlib. seaborn. sklearn
     text: ''
     actions:
