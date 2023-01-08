@@ -101,7 +101,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: 'SQL Quries: Explore International Debt Statistics'
+    title: Explore Global Debt Statistics
     actions:
       - type: Button
         label: CODE
