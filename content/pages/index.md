@@ -121,7 +121,7 @@ sections:
         icon: arrowRight
         style: primary
         url: >-
-          https://github.com/RubaoChen/Data-analysis-project-portfolio/blob/main/SQL_Explore%20International%20Debt%20Statistics/Explore%20International%20Debt%20Statistics.ipynb
+          https://github.com/RubaoChen/Data-analysis-project-portfolio/blob/main/SQL_Explore%20International%20Debt%20Statistics/Explore%20International%20Debt%20Statistcis.ipynb
         iconPosition: right
     media:
       type: ImageBlock
