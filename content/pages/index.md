@@ -224,7 +224,7 @@ sections:
     colors: colors-c
     elementId: ''
     backgroundSize: full
-    title: A/B test for Mobile Game
+    title: A/B test for Mobile Game with Python
     subtitle: numpy. pandas. matplotlib. seaborn
     text: ''
     actions:
