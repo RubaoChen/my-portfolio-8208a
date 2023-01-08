@@ -138,12 +138,6 @@ sections:
       actions:
         justifyContent: flex-start
     subtitle: Exploratory Data Analysis.
-    text: >+
-      This project explores and analyse international debt using the World Bank
-      dataset and explores:The total amount of debt own by developing
-      countriesThe countries has the maximun amount of debtThe average amount of
-      debt owed by countries across different debt indicators
-
   - type: HeroSection
     colors: colors-c
     elementId: ''
