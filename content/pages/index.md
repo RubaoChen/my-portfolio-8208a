@@ -263,45 +263,6 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Visualising COVID-19 with R
-    subtitle: ggplot.
-    text: ''
-    actions:
-      - type: Button
-        label: CODE
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /
-    media:
-      type: ImageBlock
-      url: /images/Covid-19.jpeg
-      altText: Hero image
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-16
-          - pb-16
-          - pl-10
-          - pr-4
-        alignItems: flex-start
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: HeroSection
-    colors: colors-d
-    elementId: ''
-    backgroundSize: full
     title: Time Series Analysis and Forecasting with ARIMA model
     subtitle: Fresh. Better. Faster.
     text: ''
@@ -325,6 +286,45 @@ sections:
           - pt-20
           - pb-20
           - pl-4
+          - pr-4
+        alignItems: flex-start
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: HeroSection
+    colors: colors-d
+    elementId: ''
+    backgroundSize: full
+    title: Visualising COVID-19 with R
+    subtitle: ggplot.
+    text: ''
+    actions:
+      - type: Button
+        label: CODE
+        showIcon: true
+        icon: arrowRight
+        style: primary
+        url: /
+    media:
+      type: ImageBlock
+      url: /images/Covid-19.jpeg
+      altText: Hero image
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-16
+          - pb-16
+          - pl-10
           - pr-4
         alignItems: flex-start
         justifyContent: center
