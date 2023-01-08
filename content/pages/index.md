@@ -147,7 +147,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: 'Python: Use Web Scraping to explore word frequency'
-    subtitle: Predicting Credit Card Approvals
+    subtitle: BeautifulSoup. Requests.
     actions:
       - type: Button
         label: Join adventure
