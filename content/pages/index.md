@@ -107,7 +107,7 @@ sections:
       dataset:
 
 
-      1.  The total amount of debt owed by developed countries
+      1.   The total amount of debt owed by developed countries
 
 
       2.  The country which owns the maximum amount of debt
