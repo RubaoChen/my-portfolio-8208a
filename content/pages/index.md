@@ -302,7 +302,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: We do fishing differently
+    title: Time Series Analysis and Forecasting with Python
     subtitle: Fresh. Better. Faster.
     text: ''
     actions:
