@@ -190,7 +190,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Customer Segmentation with K-means Clustering
-    subtitle: numpy. pandas. matplotlib. seaborn. sklearn
+    subtitle: 'Python: numpy. pandas. matplotlib. seaborn. sklearn'
     text: >
       This report processes and segment customer purchase data using a K-means
       clustering algorithm. It also includes a snake plot and heatmap to
