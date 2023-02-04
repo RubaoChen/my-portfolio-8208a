@@ -234,7 +234,9 @@ sections:
     backgroundSize: full
     title: A/B test for Mobile Game with Python
     subtitle: 'Python: numpy. pandas. matplotlib. seaborn'
-    text: ''
+    text: >
+      This notebook try to analyse the retention rate for two different version
+      of a mobile game
     actions:
       - type: Button
         label: CODE
