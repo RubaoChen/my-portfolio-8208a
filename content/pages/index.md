@@ -27,7 +27,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/my picture-bf3d7060.jpeg
+      url: /images/WechatIMG123.jpeg
       altText: Hero image
     backgroundImage: null
     styles:
