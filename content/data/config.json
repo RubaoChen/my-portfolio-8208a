@@ -70,6 +70,15 @@
                 "icon": "github",
                 "style": "link",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/rubao-chen/",
+                "icon": "linkedin",
+                "style": "link",
+                "elementId": ""
             }
         ],
         "legalLinks": [
