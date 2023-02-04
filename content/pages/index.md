@@ -241,7 +241,8 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: /
+        url: >-
+          https://github.com/RubaoChen/Data-analysis-project-portfolio/blob/main/A:B%20test%20for%20mobile%20game%20retention/A:B%20test%20for%20mobile%20game%20retention%20.ipynb
     media:
       type: ImageBlock
       url: /images/Cookie Cats.png
