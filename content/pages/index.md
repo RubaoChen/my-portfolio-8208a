@@ -15,16 +15,7 @@ sections:
 
 
       Please contact me if you want to work with me!
-    actions:
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/WechatIMG123.jpeg
