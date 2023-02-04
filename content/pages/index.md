@@ -137,9 +137,22 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: >
+    text: >+
       This project explores and analyse global debt using the World Bank
       dataset.
+
+
+      *   What is the total amount of debt that is owed by the countries listed
+      in the dataset?
+
+
+      *   Which country owns the maximum amount of debt and what does that
+      amount look like?
+
+
+      *   What is the average amount of debt owed by countries across different
+      debt indicators?
+
     subtitle: select. group by. order by. where
   - type: HeroSection
     colors: colors-c
