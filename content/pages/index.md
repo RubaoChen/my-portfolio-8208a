@@ -201,7 +201,7 @@ sections:
         icon: arrowRight
         style: primary
         url: >-
-          https://github.com/RubaoChen/Data-analysis-project-portfolio/blob/main/%20Customer%20Segmentation%20by%20k-mean%20Clustering/%20Customer%20Segmentation%20by%20k-mean%20Clustering.ipynb
+          https://github.com/RubaoChen/Data-analysis-project-portfolio/blob/main/Customer%20Segmentation%20by%20k-mean%20Clustering/%20Customer%20Segmentation%20by%20k-mean%20Clustering.ipynb
     media:
       type: ImageBlock
       url: /images/k-mean clustering.png
