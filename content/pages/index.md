@@ -302,45 +302,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: HeroSection
-    colors: colors-c
-    elementId: ''
-    backgroundSize: full
-    title: Visualising COVID-19 with R
-    subtitle: ggplot.
-    text: ''
-    actions:
-      - type: Button
-        label: CODE
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /
-    media:
-      type: ImageBlock
-      url: /images/Covid-19.jpeg
-      altText: Hero image
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-16
-          - pb-16
-          - pl-10
-          - pr-4
-        alignItems: flex-start
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: DividerSection
     colors: colors-d
     styles:
