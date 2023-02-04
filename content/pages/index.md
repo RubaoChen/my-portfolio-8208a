@@ -122,7 +122,7 @@ sections:
         width: narrow
         padding:
           - pt-11
-          - pb-24
+          - pb-11
           - pl-10
           - pr-4
         alignItems: center
