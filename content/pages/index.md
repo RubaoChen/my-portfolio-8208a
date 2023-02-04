@@ -147,7 +147,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Web Scraping & NPL for Novel Word Frequency
-    subtitle: Py t hon：BeautifulSoup. requests. nltk
+    subtitle: Python：BeautifulSoup. requests. nltk
     actions:
       - type: Button
         label: CODE
