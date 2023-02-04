@@ -267,45 +267,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: HeroSection
-    colors: colors-d
-    elementId: ''
-    backgroundSize: full
-    title: Time Series Analysis and Forecasting with ARIMA model
-    subtitle: Fresh. Better. Faster.
-    text: ''
-    actions:
-      - type: Button
-        label: Join adventure
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /
-    media:
-      type: ImageBlock
-      url: /images/hero-2.png
-      altText: Hero image
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-20
-          - pb-20
-          - pl-4
-          - pr-4
-        alignItems: flex-start
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: DividerSection
     colors: colors-d
     styles:
