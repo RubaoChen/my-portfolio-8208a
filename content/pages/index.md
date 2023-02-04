@@ -58,7 +58,7 @@ sections:
     subtitle: Visit @RubaoChen on Tableau Public
     actions:
       - type: Button
-        label: Visit All
+        label: VISIT ALL
         url: 'https://public.tableau.com/app/profile/rubao.chen'
         style: primary
         iconPosition: right
