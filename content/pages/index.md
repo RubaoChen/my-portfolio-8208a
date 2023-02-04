@@ -233,7 +233,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: A/B test for Mobile Game with Python
-    subtitle: numpy. pandas. matplotlib. seaborn
+    subtitle: 'Python: numpy. pandas. matplotlib. seaborn'
     text: ''
     actions:
       - type: Button
