@@ -193,8 +193,8 @@ sections:
     subtitle: 'Python: numpy. pandas. matplotlib. seaborn. sklearn'
     text: >
       This report processes and segment customer purchase data using a K-means
-      clustering algorithm. It also includes a snake plot and heatmap to
-      visualize the resulting clusters and feature importance.
+      clustering algorithm, including a snake plot and heatmap to visualize the
+      resulting clusters and feature importance.
     actions:
       - type: Button
         label: CODE
