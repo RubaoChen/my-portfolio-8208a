@@ -22,18 +22,7 @@
                 "altText": ""
             }
         ],
-        "secondaryLinks": [
-            {
-                "type": "Button",
-                "label": "Contact me",
-                "url": "mailto:info@lorem.mail",
-                "altText": "Contact me",
-                "style": "secondary",
-                "showIcon": true,
-                "icon": "arrowRight",
-                "iconPosition": "right"
-            }
-        ],
+        "secondaryLinks": [],
         "styles": {
             "self": {
                 "width": "narrow"
