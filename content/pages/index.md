@@ -153,7 +153,8 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
-        url: /
+        url: >-
+          /https://github.com/RubaoChen/Data-analysis-project-portfolio/blob/main/Web%20Scraping%20%26%20NPL%20for%20Novel%20Word%20Frequency/Web%20Scraping%20%26%20NPL%20for%20Novel%20Word%20Frequency.ipynb
     media:
       type: ImageBlock
       url: /images/post-4.jpg
