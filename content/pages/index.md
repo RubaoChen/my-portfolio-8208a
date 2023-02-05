@@ -223,7 +223,7 @@ sections:
     colors: colors-c
     elementId: ''
     backgroundSize: full
-    title: A/B test for Mobile Game with Python
+    title: A/B test
     subtitle: 'Python: numpy. pandas. matplotlib. seaborn'
     text: >
       This project try to analyse the retention rate for two different version
