@@ -137,7 +137,7 @@ sections:
     colors: colors-c
     elementId: ''
     backgroundSize: full
-    title: Web Scraping & NPL for Novel Word Frequency
+    title: Web Scraping & NPL
     subtitle: Python：BeautifulSoup. requests. nltk
     actions:
       - type: Button
