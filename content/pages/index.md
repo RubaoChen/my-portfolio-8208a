@@ -15,7 +15,16 @@ sections:
 
 
       Please contact me if you want to work with me!
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: rubao.chen11@outlook.com
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/WechatIMG123.jpeg
