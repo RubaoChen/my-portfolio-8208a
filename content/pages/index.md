@@ -180,7 +180,7 @@ sections:
     colors: colors-d
     elementId: ''
     backgroundSize: full
-    title: Customer Segmentation with K-means Clustering
+    title: Customer Segmentation
     subtitle: 'Python: numpy. pandas. matplotlib. seaborn. sklearn'
     text: >
       This report processes and segment customer purchase data using a K-means
