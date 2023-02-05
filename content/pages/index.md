@@ -19,15 +19,6 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: rubao.chen11@outlook.com
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Button
-        label: Learn more
-        altText: ''
         url: 'https://github.com/RubaoChen/Data-analysis-project-portfolio'
         showIcon: true
         icon: arrowRight
