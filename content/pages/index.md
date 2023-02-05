@@ -25,6 +25,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'https://github.com/RubaoChen/Data-analysis-project-portfolio'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/WechatIMG123.jpeg
